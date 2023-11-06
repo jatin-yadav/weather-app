@@ -96,3 +96,13 @@ body {
     width: 40px;
     margin-right: 1rem;
 }
+
+.weather {
+    display: none;
+}
+
+.error {
+    margin-top: 10px;
+    text-align: left;
+    display: none;
+}
