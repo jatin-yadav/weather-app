@@ -2,6 +2,10 @@
 # Weather APP
 
 Weather App is a simple web application that allows users to check the current weather conditions for a specific city. It's built using HTML, CSS, and JavaScript and integrates with a weather API to fetch and display weather data.
+
+## Demo
+click: http://127.0.0.1:5500/index.html
+
 <img src="https://github.com/jatin-yadav/weather-app/blob/main/images/example.png"></img>
 ## Features
 Enter a city to view current weather information.
